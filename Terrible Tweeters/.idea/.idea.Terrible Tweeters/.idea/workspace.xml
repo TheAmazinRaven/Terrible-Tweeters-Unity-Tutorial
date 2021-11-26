@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a48076b-0f88-4f89-b4c7-69ac64ec3eee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Terrible Tweeters/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Terrible Tweeters/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Terrible Tweeters/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Terrible Tweeters/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2a48076b-0f88-4f89-b4c7-69ac64ec3eee" name="Changes" comment="Testing commits">
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="21RDWdrTX1uNwUF5v3i401Z46bB" />
@@ -63,7 +66,16 @@
       <updated>1637895038239</updated>
       <workItem from="1637895044910" duration="2484000" />
       <workItem from="1637910569482" duration="1000" />
+      <workItem from="1637912439923" duration="301000" />
     </task>
+    <task id="LOCAL-00001" summary="Testing commits">
+      <created>1637912684685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637912684686</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Testing commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing commits" />
   </component>
 </project>

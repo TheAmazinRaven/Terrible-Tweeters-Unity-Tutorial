@@ -21,7 +21,7 @@ public class Bird : MonoBehaviour
         // saving starting position
         _startPosition = _rigidbody2D.position;
         // will not move due to physics in unity but bc of the code
-        _rigidbody2D().isKinematic = true;
+        _rigidbody2D.isKinematic = true;
     }
     
     // color red when clicked
